@@ -13,7 +13,7 @@
 
 MongoDB is a popular NoSQL database that uses a flexible, document-oriented data model. Its architecture is designed to provide scalability, flexibility, and high performance.
 
-<img src='./MongoDB-Architecture.png' width=400 height=400 />
+<img src='MongoDB-Architecture.png' width=400 height=400 />
 
 ### Document Model 
 MongoDB stores data in flexible, JSON-like documents we call it `BSON`. These documents can have varying structures, which means each record in a collection (similar to a table in relational databases) does not need to have the same schema.
